@@ -26,7 +26,7 @@
 ## 🛠️ Technologies Used
 - **Android Studio** – Development environment
 - **Java/Kotlin** – Programming language
-- **Firebase (if used)** – For backend services
+
 - **Android SDK** – Core framework
 
 ## 👨‍💻 Contribution
@@ -35,9 +35,6 @@ We welcome contributions! Follow these steps:
 2. Create a new branch (`feature-branch`).
 3. Commit your changes.
 4. Push to your branch and submit a **Pull Request**.
-
-## 📜 License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 For any queries or collaborations, feel free to reach out:
